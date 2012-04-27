@@ -1,5 +1,5 @@
 *.zip
 Saves/
-CustomSettingNames_en-EN.xml
+CustomSettingNames_en-EN*.xml
 *.exe
 RendererInfo.txt
